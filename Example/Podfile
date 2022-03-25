@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '9.0'
+
+target 'MLeaksFinderFix_Example' do
+  pod 'MLeaksFinderFix', :path => '../'
+
+  target 'MLeaksFinderFix_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
