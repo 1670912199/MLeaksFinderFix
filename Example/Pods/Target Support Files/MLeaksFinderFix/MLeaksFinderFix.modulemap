@@ -1,0 +1,6 @@
+framework module MLeaksFinderFix {
+  umbrella header "MLeaksFinderFix-umbrella.h"
+
+  export *
+  module * { export * }
+}

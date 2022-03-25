@@ -1,0 +1,16 @@
+PODS:
+  - MLeaksFinderFix (0.1.0)
+
+DEPENDENCIES:
+  - MLeaksFinderFix (from `../`)
+
+EXTERNAL SOURCES:
+  MLeaksFinderFix:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  MLeaksFinderFix: 71ca5cd4e415f0361e1c488863bab379284bba70
+
+PODFILE CHECKSUM: c877b8877cab7bbd838f625c0812b01e94f85c39
+
+COCOAPODS: 1.10.0
